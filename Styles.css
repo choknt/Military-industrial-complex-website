@@ -1,0 +1,18 @@
+body {
+    margin: 0; /* Reset default margin */
+}
+
+.background-image {
+    background-image: url('cain and abel.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh; /* Adjust this for desired height */
+    /* You may also add other styles like padding, etc. */
+}
+
+.content {
+    /* Additional styles for your content if needed */
+    padding: 20px;
+    color: white; /* Example text color */
+}
